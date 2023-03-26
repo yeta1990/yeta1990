@@ -5,7 +5,10 @@ Since I was born, there has always been a computer at home. That's why I've **sp
 
 ### Skills
 #### 🖥 Main languages
-C, C++, Javascript, SQL.
+![C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
+![C++](https://img.shields.io/badge/C++-a?style=for-the-badge&logo=cplusplus&color=grey)
+![Javascrpt](https://img.shields.io/badge/Javascript-a?style=for-the-badge&logo=javascript&color=grey)
+![SQL](https://img.shields.io/badge/SQL-a?style=for-the-badge&logo=SQL&color=grey)
 
 #### 📘 Libraries and frameworks
 Node.js, React, Next.js, Bootstrap, Chakra, Prisma.
