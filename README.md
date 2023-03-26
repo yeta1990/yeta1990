@@ -39,4 +39,4 @@ APIs de Salesforce, Hubspot, Wordpress. Integromat/Make, Zapier.
 #### [Minishell (2022. C)](https://github.com/yeta1990/minishell)
 - Unix-like shell: a command interpreter inspired in bash.
 - Allows command execution, redirections and pipes.
-- Implements its own builtins: env, export, cd, echo y unset.
+- Implements its own builtins: env, export, cd, echo and unset.
