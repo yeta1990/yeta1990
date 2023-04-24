@@ -36,7 +36,7 @@ APIs de Salesforce, Hubspot, Wordpress. Integromat/Make, Zapier.
 - Image build and upload to DockerHub is automatic when a PR is merged.
 - Tested on Mac, Linux and Windows.
 
-#### [IRC Server (2022. C)](https://github.com/yeta1990/irc_server)
+#### [IRC Server (2022. C++)](https://github.com/yeta1990/irc_server)
 - IRC server based on RFC1459 protocol.
 - Compatible with IRC clients who follow the same protocol (i.e.: irssi, Textual, etc.)
 - Includes most of the commands and modes of users and operators.
