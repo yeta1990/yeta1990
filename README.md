@@ -26,6 +26,11 @@ APIs de Salesforce, Hubspot, Wordpress. Integromat/Make, Zapier.
 
 ### Featured public projects
 
+#### [Transcendence (2023. NestJS, Angular, Bootstrap, PostgreSQL)](https://github.com/yeta1990/ft_transcendence)
+-   Web app to play Pong online against other players: challenges, ranking, ladder, different game modes and power ups.
+-   Chat rooms with persistence, private messages, friends, etc.
+-   Websockets for game and chat, login with Oauth2, user privilege management, 2FA with QR via mobile app.
+
 #### [Containers (2023. C++)](https://github.com/yeta1990/ft_containers)
 - Reimplementation of some data structures from C++ 98 STL.
 - Vector, Map, Stack and Set, including iterators, reverse iterators and a red-black tree. 
